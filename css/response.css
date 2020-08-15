@@ -1,0 +1,188 @@
+
+
+@media (max-width:250.98px) {
+    .navbar-expand-md .navbar-collapse {
+    background-color: #282e41;
+    text-align: center;
+        left: 0%;
+}
+.carousel-caption {
+    position: absolute;
+    bottom: 40%;
+    left:1%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+.carousel-caption h3 {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: lighter;
+}
+
+
+.layer23 {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(244, 241, 241, 0.74);
+  position: absolute;
+  opacity: 0.9;
+  z-index:1;
+  clip-path:polygon(77.23% 47.83%, 0.01% 99.99%, -10% 0%, 0.55% 0.92%);
+}
+.layer22 {
+  width: 100%;
+  height: 100%;
+  background-color:rgba(72, 39, 13, 0.76);
+  position: absolute;
+  opacity: 0.9;
+  z-index:1;
+  clip-path:polygon(77.23% 47.83%, 0.01% 99.99%, -10% 0%, 0.55% 0.92%);
+}
+.layer21 {
+  width: 100%;
+  height: 100%;
+background-color: rgba(174, 155, 153, 0.68);
+    position: absolute;
+  opacity: 0.9;
+  z-index:1;
+  clip-path:polygon(77.23% 47.83%, 0.01% 99.99%, -10% 0%, 0.55% 0.92%);
+}
+.layer24 {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(191, 74, 17, 0.85);
+  position: absolute;
+  opacity: 0.9;
+  z-index:1;
+  clip-path:polygon(77.23% 47.83%, 0.01% 99.99%, -10% 0%, 0.55% 0.92%);
+}
+
+
+}
+@media (min-width: 250px) and (max-width: 575.98px) { 
+    .navbar-expand-md .navbar-collapse {
+    background-color: #282e41;
+    text-align: center;
+        left: 0%;
+}
+.carousel-caption {
+    position: absolute;
+    bottom: 45%;
+    left: -5%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+.carousel-caption h3 {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: lighter;
+}
+
+.layer23 {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(244, 241, 241, 0.74);
+  position: absolute;
+  opacity: 0.9;
+  z-index:1;
+  clip-path:polygon(77.23% 47.83%, 0.01% 99.99%, -10% 0%, 0.55% 0.92%);
+}
+.layer22 {
+  width: 100%;
+  height: 100%;
+  background-color:rgba(72, 39, 13, 0.76);
+  position: absolute;
+  opacity: 0.9;
+  z-index:1;
+  clip-path:polygon(77.23% 47.83%, 0.01% 99.99%, -10% 0%, 0.55% 0.92%);
+}
+.layer21 {
+  width: 100%;
+  height: 100%;
+background-color: rgba(174, 155, 153, 0.68);
+    position: absolute;
+  opacity: 0.9;
+  z-index:1;
+  clip-path:polygon(77.23% 47.83%, 0.01% 99.99%, -10% 0%, 0.55% 0.92%);
+}
+.layer24 {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(191, 74, 17, 0.85);
+  position: absolute;
+  opacity: 0.9;
+  z-index:1;
+  clip-path:polygon(77.23% 47.83%, 0.01% 99.99%, -10% 0%, 0.55% 0.92%);
+}
+ 1`}
+
+@media (min-width: 576px) and (max-width:767.98px ) {
+ .carousel-caption {
+    position: absolute;
+    bottom: 41%;
+left: -23%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+.carousel-caption h3 {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: lighter;
+}
+
+.layer23 {
+width: 73%;  height: 100%;
+  background-color: rgba(244, 241, 241, 0.74);
+  position: absolute;
+  opacity: 0.9;
+  z-index:1;
+  clip-path:polygon(77.23% 47.83%, 0.01% 99.99%, -10% 0%, 0.55% 0.92%);
+}
+.layer22 {
+width: 73%;  height: 100%;
+  background-color:rgba(72, 39, 13, 0.76);
+  position: absolute;
+  opacity: 0.9;
+  z-index:1;
+  clip-path:polygon(77.23% 47.83%, 0.01% 99.99%, -10% 0%, 0.55% 0.92%);
+}
+.layer21 {
+width: 73%;  height: 100%;
+background-color: rgba(174, 155, 153, 0.68);
+    position: absolute;
+  opacity: 0.9;
+  z-index:1;
+  clip-path:polygon(77.23% 47.83%, 0.01% 99.99%, -10% 0%, 0.55% 0.92%);
+}
+.layer24 {
+width: 73%;  height: 100%;
+  background-color: rgba(191, 74, 17, 0.85);
+  position: absolute;
+  opacity: 0.9;
+  z-index:1;
+  clip-path:polygon(77.23% 47.83%, 0.01% 99.99%, -10% 0%, 0.55% 0.92%);
+}
+}
+@media (min-width: 767.98px) and (max-width: 992px) { 
+
+}
+ 
+
+
+@media (min-width: 992px) and (max-width: 1099.98px) { 
+
+ 
+}
+
+@media (min-width: 1200px)
+{ 
+}
